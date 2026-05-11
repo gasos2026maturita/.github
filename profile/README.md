@@ -16,4 +16,4 @@
 </div>
 <br>
 
-:)
+:) 👉 Online manuály: https://stefan.projnull.eu/javaref/
